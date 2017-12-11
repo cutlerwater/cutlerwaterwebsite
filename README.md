@@ -2,6 +2,8 @@
 
 You can use the [editor on GitHub](https://github.com/cutlerwater/cutlerwaterwebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Hi, it's me, your friendly web designer and developer!
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
